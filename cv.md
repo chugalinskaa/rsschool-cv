@@ -2,7 +2,9 @@
 # Chuhalinska Antonina
 ### Contact information:
 **Phone:** +380991488372;
+
 **Email:** chugalinskaa@gmail.com;
+
 **GitHub:** [chugalinskaa](https://github.com/chugalinskaa)
 ### About Me
 I am 25 years old, now I work as Fashion photographer. But I want to be a developer.
